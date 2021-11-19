@@ -6,7 +6,7 @@ my configuration files
 
 ```bash
 cd ~
-git clone https://github.com/ShadowExistence/dotfiles.git
+git clone https://github.com/ShadowExistence/dotfiles.git --recursive
 cd dotfiles
 ./install
 ```
